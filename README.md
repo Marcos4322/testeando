@@ -4,3 +4,7 @@ Esto es una simple prueba
 * **negrita**
 
 # TITULO
+
+AUTORES:
+- Gaspar
+- Marcos
